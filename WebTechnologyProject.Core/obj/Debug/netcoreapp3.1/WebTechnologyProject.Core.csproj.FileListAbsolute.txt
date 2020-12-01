@@ -1,0 +1,5 @@
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyProject.Core\bin\Debug\netcoreapp3.1\WebTechnologyProject.Core.deps.json
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyProject.Core\bin\Debug\netcoreapp3.1\WebTechnologyProject.Core.dll
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyProject.Core\obj\Debug\netcoreapp3.1\WebTechnologyProject.Core.csprojAssemblyReference.cache
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyProject.Core\obj\Debug\netcoreapp3.1\WebTechnologyProject.Core.AssemblyInfoInputs.cache
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyProject.Core\obj\Debug\netcoreapp3.1\WebTechnologyProject.Core.AssemblyInfo.cs

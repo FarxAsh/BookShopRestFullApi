@@ -1,0 +1,15 @@
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.deps.json
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.dll
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.AssemblyInfoInputs.cache
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.AssemblyInfo.cs
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.csprojAssemblyReference.cache
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.runtimeconfig.json
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.runtimeconfig.dev.json
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.genruntimeconfig.cache
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.pdb
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectCore.dll
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\bin\Debug\netcoreapp3.1\WebTechnologyProjectCore.pdb
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.csproj.CopyComplete
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.dll
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.pdb
+C:\Users\farxa\source\repos\WebTecnologyProject\WebTechnologyInfrastructure\obj\Debug\netcoreapp3.1\WebTechnologyProjectInfrastructure.csproj.CoreCompileInputs.cache
